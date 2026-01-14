@@ -1,9 +1,9 @@
 [
   {
-    "Device Id": "PASTE-DEVICE-ID", 
-    "username": "PASTE-USERNAME",
-    "password": "PASTE-PASSWORD",
-    "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
+    "Device Id": "9f33a75302554dd2", 
+    "username": "Cmultra",
+    "password": "1234",
+    "expiry": "2030-10-15" // DATE FORMAT~ YYYY-MM-DD
   },
   {
     "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
