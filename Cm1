@@ -66,78 +66,7 @@
     "dpmods123": {
       "expiry": "1h",
       "interval": "1h",
-      "toast": ""
-    },
-    "DPMODS-L0QS": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Bulk Key"
-    },
-    "DPMODS-SXI0": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Bulk Key"
-    },
-    "DPMODS-YO7N": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Bulk Key"
-    },
-    "DPMODS-ON3G": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Bulk Key"
-    },
-    "DPMODS-D6JD": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Bulk Key"
-    },
-    "KEY-K1ML": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Welcome!"
-    },
-    "SUMIT-JMQW": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Welcome!"
-    },
-    "I LOVE MY GF-WYKS": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Welcome!"
-    },
-    "I LOVE MY GF-VPTO": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Welcome!"
-    },
-    "I LOVE MY GF-NZQL": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Welcome!"
-    },
-    "I LOVE MY GF-0YV4": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Welcome!"
-    },
-    "I LOVE MY GF-6A4U": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "Welcome!"
-    },
-    "DPMOODFvdv": "everytime",
-    "dpadmin": {
-      "expiry": "2025-11-20",
-      "interval": "everytime",
-      "toast": "Subscribe DPMods"
-    },
-    "dpadmin123": {
-      "expiry": "1h",
-      "interval": "everytime",
-      "toast": "Trial key "
+      "toast": "
     }
   }
 }
