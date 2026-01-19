@@ -22,21 +22,13 @@
     "adminUrl": "https://t.me/your_channel"
   },
   "keys": {
-    "VIP-USER": {
-      "expiry": "2090-01-01",
-      "interval": "50years",
-      "toast": "Welcome back, VIP Legend! 👑",
-      "device": "",
-      "locked": false,
-      "expiryMessage": ""
-    },
     "TRIAL-KEY": {
-      "expiry": "3d",
-      "interval": "everytime",
+      "expiry": "",
+      "interval": "",
       "toast": "3-Day Trial Started ⏳",
       "device": "",
       "locked": false,
-      "expiryMessage": ""
+      "expiryMessage": "Kgj"
     },
     "1-HOUR-TEST": {
       "expiry": "1h",
@@ -221,6 +213,14 @@
       "device": "",
       "locked": false,
       "expiryMessage": ""
+    },
+    "VIP-USERR": {
+      "expiry": "2090-01-01",
+      "interval": "2030-01-20",
+      "toast": "Welcome back, VIP Legend! 👑",
+      "device": "",
+      "locked": true,
+      "expiryMessage": "You trial time up"
     }
   }
 }
