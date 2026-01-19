@@ -23,7 +23,7 @@
   },
   "keys": {
     "VIP-USER": {
-      "expiry": "12-12-2030",
+      "expiry": "2090-01-01",
       "interval": "50years",
       "toast": "Welcome back, VIP Legend! 👑"
     },
