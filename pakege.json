@@ -215,20 +215,12 @@
       "expiryMessage": ""
     },
     "VIP-USERR": {
-      "expiry": "2090-01-01",
+      "expiry": "2080-01-01",
       "interval": "2030-01-20",
       "toast": "Welcome back, VIP Legend! 👑",
       "device": "",
       "locked": false,
       "expiryMessage": "You trial time up"
-    },
-    "Admin": {
-      "expiry": "",
-      "interval": "everytime",
-      "toast": "",
-      "device": "9f33a75302554dd2",
-      "locked": false,
-      "expiryMessage": ""
     }
   }
 }
