@@ -22,7 +22,7 @@
     "adminUrl": "https://t.me/your_channel"
   },
   "keys": {
-    "VIP-USER": {
+    "VIP-USERR": {
       "expiry": "2090-12-31",
       "interval": "50years",
       "toast": "Welcome back, VIP Legend! 👑"
