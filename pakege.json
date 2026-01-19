@@ -1,12 +1,12 @@
 {
   "config": {
-    "country": "India",
+    "country": "All",
     "updateAvailable": false,
     "themeColor": "#8e44ad",
     "textColor": "#ffffff"
   },
   "loginDialog": {
-    "title": "Welcome To DPMods",
+    "title": "Welcome to CM Ultra",
     "subtitle": "If you don't have a key, contact Admin. Otherwise, enter your key and press Login.",
     "loginButtonText": "Login",
     "adminButtonText": "Get Key",
