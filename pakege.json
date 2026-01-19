@@ -24,7 +24,7 @@
   "keys": {
     "TRIAL-KEY": {
       "expiry": "",
-      "interval": "",
+      "interval": "everytime",
       "toast": "3-Day Trial Started ⏳",
       "device": "",
       "locked": false,
@@ -214,12 +214,12 @@
       "locked": false,
       "expiryMessage": ""
     },
-    "VIP-USERR": {
+    "VIP-USERrrr": {
       "expiry": "2090-01-01",
       "interval": "2030-01-20",
       "toast": "Welcome back, VIP Legend! 👑",
       "device": "",
-      "locked": true,
+      "locked": false,
       "expiryMessage": "You trial time up"
     }
   }
