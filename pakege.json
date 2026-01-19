@@ -25,119 +25,202 @@
     "VIP-USER": {
       "expiry": "2090-01-01",
       "interval": "50years",
-      "toast": "Welcome back, VIP Legend! 👑"
+      "toast": "Welcome back, VIP Legend! 👑",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "TRIAL-KEY": {
       "expiry": "3d",
       "interval": "everytime",
-      "toast": "3-Day Trial Started ⏳"
+      "toast": "3-Day Trial Started ⏳",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "1-HOUR-TEST": {
       "expiry": "1h",
       "interval": "everytime",
-      "toast": "1 Hour Test Active 🕐"
+      "toast": "1 Hour Test Active 🕐",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "12-HOUR-PASS": {
       "expiry": "12h",
       "interval": "1h",
-      "toast": "12 Hour Session Started ⚡"
+      "toast": "12 Hour Session Started ⚡",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "MONTHLY-SUB": {
       "expiry": "1m",
       "interval": "1d",
-      "toast": "Monthly Access Granted ✅"
+      "toast": "Monthly Access Granted ✅",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "YEARLY-PRO": {
       "expiry": "1y",
       "interval": "1week",
-      "toast": "Yearly Pro Subscription 🌟"
+      "toast": "Yearly Pro Subscription 🌟",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "LIFETIME-KEY": {
       "expiry": "lifetime",
       "interval": "30d",
-      "toast": "Lifetime Access 💎"
+      "toast": "Lifetime Access 💎",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "STREAMER-VIP": {
       "expiry": "lifetime",
       "interval": "1d",
-      "toast": "Welcome Streamer! 🎥"
+      "toast": "Welcome Streamer! 🎥",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
-    "SIMPLE-KEY": "2025-01-01",
+    "SIMPLE-KEY": {
+      "expiry": "2025-01-01",
+      "interval": "everytime",
+      "toast": "",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
+    },
     "dpmods123": {
       "expiry": "1h",
       "interval": "1h",
-      "toast": ""
+      "toast": "",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "DPMODS-L0QS": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Bulk Key"
+      "toast": "Bulk Key",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "DPMODS-SXI0": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Bulk Key"
+      "toast": "Bulk Key",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "DPMODS-YO7N": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Bulk Key"
+      "toast": "Bulk Key",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "DPMODS-ON3G": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Bulk Key"
+      "toast": "Bulk Key",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "DPMODS-D6JD": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Bulk Key"
+      "toast": "Bulk Key",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "KEY-K1ML": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Welcome!"
+      "toast": "Welcome!",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "SUMIT-JMQW": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Welcome!"
+      "toast": "Welcome!",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "I LOVE MY GF-WYKS": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Welcome!"
+      "toast": "Welcome!",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "I LOVE MY GF-VPTO": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Welcome!"
+      "toast": "Welcome!",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "I LOVE MY GF-NZQL": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Welcome!"
+      "toast": "Welcome!",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "I LOVE MY GF-0YV4": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Welcome!"
+      "toast": "Welcome!",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "I LOVE MY GF-6A4U": {
       "expiry": "1d",
       "interval": "everytime",
-      "toast": "Welcome!"
+      "toast": "Welcome!",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
-    "DPMOODFvdv": "everytime",
+    "DPMOODFvdv": {
+      "expiry": "everytime",
+      "interval": "everytime",
+      "toast": "",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
+    },
     "dpadmin": {
       "expiry": "2025-11-20",
       "interval": "everytime",
-      "toast": "Subscribe DPMods"
+      "toast": "Subscribe DPMods",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     },
     "dpadmin123": {
       "expiry": "1h",
       "interval": "everytime",
-      "toast": "Trial key "
+      "toast": "Trial key ",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     }
   }
 }
