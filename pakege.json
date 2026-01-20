@@ -39,10 +39,10 @@
       "expiryMessage": "You trial time up"
     },
     "BNPro": {
-      "expiry": "1d",
+      "expiry": "20-02-2026",
       "interval": "everytime",
-      "toast": "",
-      "device": "",
+      "toast": "Welcome back, VIP Legend! ð",
+      "device": "6125809078080337",
       "locked": false,
       "expiryMessage": ""
     }
