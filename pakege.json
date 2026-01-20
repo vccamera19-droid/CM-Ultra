@@ -30,14 +30,6 @@
       "locked": false,
       "expiryMessage": "Kgj"
     },
-    "BNPro": {
-      "expiry": "2026-02-20",
-      "interval": "2026-02-20",
-      "toast": "Welcome back, VIP Legend! ð",
-      "device": "6125809078080337",
-      "locked": false,
-      "expiryMessage": "Contact Admin"
-    },
     "ADMIN": {
       "expiry": "2080-01-01",
       "interval": "2030-01-20",
@@ -45,6 +37,14 @@
       "device": "9f33a75302554dd2",
       "locked": false,
       "expiryMessage": "You trial time up"
+    },
+    "BNPRO": {
+      "expiry": "2026-02-20",
+      "interval": "2026-02-20",
+      "toast": "Welcome back, VIP Legend! ð",
+      "device": "6125809078080337",
+      "locked": false,
+      "expiryMessage": "Contact Admin"
     }
   }
 }
