@@ -37,6 +37,14 @@
       "device": "9f33a75302554dd2",
       "locked": false,
       "expiryMessage": "You trial time up"
+    },
+    "BNPro": {
+      "expiry": "1d",
+      "interval": "everytime",
+      "toast": "",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     }
   }
 }
