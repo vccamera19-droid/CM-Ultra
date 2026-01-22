@@ -45,6 +45,14 @@
       "device": "6125809078080337",
       "locked": false,
       "expiryMessage": "Contact Admin"
+    },
+    "Akash-Khan": {
+      "expiry": "1d",
+      "interval": "everytime",
+      "toast": "",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     }
   }
 }
