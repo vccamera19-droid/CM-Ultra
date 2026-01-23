@@ -55,12 +55,12 @@
       "expiryMessage": "Contact Admin"
     },
     "andresvxt": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "",
-      "device": "",
+      "expiry": "2030-02-22",
+      "interval": "2030-02-21",
+      "toast": "Welcome back, VIP Legend! Ã",
+      "device": "4738e444c4db0eb1",
       "locked": false,
-      "expiryMessage": ""
+      "expiryMessage": "contact admin"
     }
   }
 }
