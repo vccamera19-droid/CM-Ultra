@@ -53,6 +53,14 @@
       "device": "a62069dbd225472c",
       "locked": false,
       "expiryMessage": "Contact Admin"
+    },
+    "andresvxt": {
+      "expiry": "1d",
+      "interval": "everytime",
+      "toast": "",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     }
   }
 }
