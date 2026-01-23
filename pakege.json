@@ -63,12 +63,12 @@
       "expiryMessage": "contact admin"
     },
     "Arazz": {
-      "expiry": "1d",
-      "interval": "everytime",
-      "toast": "",
-      "device": "",
+      "expiry": "2027-02-02",
+      "interval": "2027-02-02",
+      "toast": "Welcome back, VIP Legend! Ã",
+      "device": "dc4f7f815672f490",
       "locked": false,
-      "expiryMessage": ""
+      "expiryMessage": "contact Admin"
     }
   }
 }
