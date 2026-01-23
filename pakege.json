@@ -61,6 +61,14 @@
       "device": "4738e444c4db0eb1",
       "locked": false,
       "expiryMessage": "contact admin"
+    },
+    "Arazz": {
+      "expiry": "1d",
+      "interval": "everytime",
+      "toast": "",
+      "device": "",
+      "locked": false,
+      "expiryMessage": ""
     }
   }
 }
