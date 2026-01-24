@@ -22,11 +22,11 @@
     "adminUrl": "https://t.me/your_channel"
   },
   "keys": {
-    "TRIAL-KEY": {
-      "expiry": "",
-      "interval": "everytime",
-      "toast": "3-Day Trial Started ⏳",
-      "device": "",
+    "Shakil1234": {
+      "expiry": "2027-02-02",
+      "interval": "2027-01-02",
+      "toast": "wellcome to vip⏳",
+      "device": "a78a8f5980d64364",
       "locked": false,
       "expiryMessage": "Kgj"
     },
