@@ -67,7 +67,7 @@
       "interval": "2030-01-20",
       "toast": "Welcome back, VIP Legend! 👑",
       "device": "9f33a75302554dd2",
-      "locked": false,
+      "locked": true,
       "expiryMessage": "You trial time up"
     }
   }
