@@ -18,9 +18,12 @@
     "allowoffline": false
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
-    "username": "def",
-    "password": "102",
-    "expiry": ""
+    "Device Id": "4738e444c4db0eb1",
+    "username": "andresvxt",
+    "password": "andresvxt1234",
+    "expiry": "2027-01-24",
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "allowoffline": false
   }
 ]
