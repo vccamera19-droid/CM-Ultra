@@ -1,12 +1,15 @@
 [
   {
-    "Device Id": "9f33a75302554dd2", 
+    "Device Id": "9f33a75302554dd2",
     "username": "ADMIN",
     "password": "1234",
-    "expiry": "2029-10-15" 
+    "expiry": "2029-10-15",
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "allowoffline": false
   },
   {
-    "Device Id": "",   
+    "Device Id": "",
     "username": "abc",
     "password": "101",
     "expiry": "2026-09-29"
@@ -15,6 +18,6 @@
     "Device Id": "PASTE-DEVICE-ID",
     "username": "def",
     "password": "102",
-    "expiry": ""  
+    "expiry": ""
   }
 ]
