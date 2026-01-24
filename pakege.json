@@ -54,14 +54,6 @@
       "locked": false,
       "expiryMessage": "Contact Admin"
     },
-    "andresvxt": {
-      "expiry": "2030-02-22",
-      "interval": "2030-02-21",
-      "toast": "Welcome back, VIP Legend! Ã",
-      "device": "4738e444c4db0eb1",
-      "locked": false,
-      "expiryMessage": "contact admin"
-    },
     "Arazz": {
       "expiry": "2027-02-02",
       "interval": "2027-02-02",
@@ -69,6 +61,14 @@
       "device": "dc4f7f815672f490",
       "locked": false,
       "expiryMessage": "contact Admin"
+    },
+    "andresvxtt": {
+      "expiry": "2030-02-22",
+      "interval": "2030-02-21",
+      "toast": "Welcome back, VIP Legend! Ã",
+      "device": "4738e444c4db0eb1",
+      "locked": false,
+      "expiryMessage": "contact admin"
     }
   }
 }
