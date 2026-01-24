@@ -1,74 +1,20 @@
-{
-  "config": {
-    "country": "All",
-    "updateAvailable": false,
-    "themeColor": "#8e44ad",
-    "textColor": "#ffffff"
+[
+  {
+    "Device Id": "PASTE-DEVICE-ID", 
+    "username": "PASTE-USERNAME",
+    "password": "PASTE-PASSWORD",
+    "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
   },
-  "loginDialog": {
-    "title": "Welcome to CM Ultra",
-    "subtitle": "If you don't have a key, contact Admin. Otherwise, enter your key and press Login.",
-    "loginButtonText": "Login",
-    "adminButtonText": "Get Key",
-    "adminUrl": "https://wa.me/message/R7ZTP5BRKYOTC1"
+  {
+    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
+    "username": "abc",
+    "password": "101",
+    "expiry": "2026-09-29"
   },
-  "updateDialog": {
-    "title": "Critical Update!",
-    "subtitle": "A mandatory update is available. You cannot continue without updating.",
-    "downloadButtonText": "Update Now",
-    "downloadUrl": "https://example.com/app.apk",
-    "showAdminButton": true,
-    "adminButtonText": "Help",
-    "adminUrl": "https://t.me/your_channel"
-  },
-  "keys": {
-    "Sha34": {
-      "expiry": "2027-02-02",
-      "interval": "2027-01-02",
-      "toast": "wellcome to vip⏳",
-      "device": "a78a8f5980d64364",
-      "locked": true,
-      "expiryMessage": "Kgj"
-    },
-    "BgfgO {
-      "expiry": "2026-02-20",
-      "interval": "2026-02-20",
-      "toast": "Welcome back, VIP Legend! ð",
-      "device": "6125809078080337",
-      "locked": false,
-      "expiryMessage": "Contact Admin"
-    },
-    "Akxb-Khan {
-      "expiry": "2026-03-22",
-      "interval": "2026-03-21",
-      "toast": "Welcome back, VIP Legend! Ã°ÂÂÂ",
-      "device": "a62069dbd225472c",
-      "locked": false,
-      "expiryMessage": "Contact Admin"
-    },
-    "Aazz {
-      "expiry": "2027-02-02",
-      "interval": "2027-02-02",
-      "toast": "Welcome back, VIP Legend! Ã",
-      "device": "dc4f7f815672f490",
-      "locked": false,
-      "expiryMessage": "contact Admin"
-    },
-    "axtt {
-      "expiry": "2030-02-22",
-      "interval": "2030-02-21",
-      "toast": "Welcome back, VIP Legend! Ã",
-      "device": "4738e444c4db0eb1",
-      "locked": false,
-      "expiryMessage": "contact admin"
-    },
-    "ADNN {
-      "exexpiry "2080-01-01",
-      "interval": "2030-01-20",
-      "toast": "Welcome back, VIP Legend! 👑",
-      "device": "9f33a75302554dd2",
-      "locked": true,
-      "expiryMessage": "You trial time up"
-    }
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "def",
+    "password": "102",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
   }
-}
+]
