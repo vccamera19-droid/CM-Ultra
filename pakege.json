@@ -1,6 +1,6 @@
 [
   {
-    "Device Id": "9f33a75302554dd2",
+    "Device Id": "9f33a75302554dd",
     "username": "ADMINS",
     "password": "1234",
     "expiry": "2029-10-15",
@@ -18,7 +18,7 @@
     "allowoffline": false
   },
   {
-    "Device Id": "4738e444c4db0eb",
+    "Device Id": "4738e444c4db0eb1",
     "username": "andresvxt",
     "password": "andresvxt1234",
     "expiry": "2027-01-24",
