@@ -25,5 +25,15 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "allowoffline": false
+  },
+  {
+    "username": "Boss1234",
+    "Device Id": "c731212f1bdfbca5",
+    "password": "Boss@1",
+    "expiry": "2027-02-02",
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
