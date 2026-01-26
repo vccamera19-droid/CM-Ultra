@@ -35,5 +35,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Nayeem12",
+    "Device Id": "eb930cfa2a672fa4",
+    "password": "Nayeem@2",
+    "expiry": "2027-02-02",
+    "paymentUSD": 0,
+    "paymentBDT": 200,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
