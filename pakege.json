@@ -45,5 +45,15 @@
     "paymentBDT": 200,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Roket12",
+    "Device Id": "c160b7bb961cd159",
+    "password": "Roket@1",
+    "expiry": "2027-02-02",
+    "paymentUSD": 10,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
