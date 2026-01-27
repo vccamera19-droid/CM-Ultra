@@ -45,5 +45,15 @@
     "paymentBDT": 200,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "AL12",
+    "Device Id": "9a14064d070990d9",
+    "password": "12345",
+    "expiry": "2027-03-02",
+    "paymentUSD": 6,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
