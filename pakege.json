@@ -65,5 +65,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "creed",
+    "Device Id": "cf111eb1d4588b7f",
+    "password": "creed@1",
+    "expiry": "2027-02-05",
+    "paymentUSD": 20,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
