@@ -85,5 +85,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Nadhir",
+    "Device Id": "a92b18d290559e5b",
+    "password": "B1234",
+    "expiry": "2027-02-02",
+    "paymentUSD": 13,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
