@@ -48,7 +48,7 @@
   },
   {
     "username": "AL12",
-    "Device Id": "9a14064d070990d9",
+    "Device Id": "9a14064d070990",
     "password": "12345",
     "expiry": "2027-03-02",
     "paymentUSD": 6,
@@ -99,7 +99,7 @@
   {
     "username": "A2",
     "Device Id": "a78a8f5980d643",
-    "password": "A111",
+    "password": "A11",
     "expiry": "2027-02-02",
     "paymentUSD": 0,
     "paymentBDT": 0,
