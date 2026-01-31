@@ -95,15 +95,5 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
-  },
-  {
-    "username": "A2",
-    "Device Id": "a78a8f5980d643",
-    "password": "A11",
-    "expiry": "2027-02-02",
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "allowoffline": false,
-    "blocked": false
   }
 ]
