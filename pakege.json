@@ -98,8 +98,18 @@
   },
   {
     "username": "Aa22",
-    "Device Id": "165264266b24f0fc",
+    "Device Id": "e707b05aa2f41eb7",
     "password": "bb22",
+    "expiry": "2026-02-28",
+    "paymentUSD": 20,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "A12345",
+    "Device Id": "165264266b24f0fc",
+    "password": "B12345",
     "expiry": "2026-02-15",
     "paymentUSD": 20,
     "paymentBDT": 0,
