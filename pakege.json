@@ -25,7 +25,7 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "username": "Razorkid8",
@@ -85,7 +85,7 @@
     "paymentUSD": 13,
     "paymentBDT": 0,
     "allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "username": "A12345",
