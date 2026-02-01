@@ -95,5 +95,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "A34",
+    "Device Id": "807d7fc047cb9668",
+    "password": "Trial",
+    "expiry": "2027-02-02",
+    "paymentUSD": 10,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
