@@ -85,7 +85,7 @@
     "paymentUSD": 13,
     "paymentBDT": 0,
     "allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "username": "A12345",
