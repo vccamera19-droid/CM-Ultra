@@ -57,11 +57,11 @@
     "blocked": false
   },
   {
-    "username": "Block",
-    "Device Id": "cf111eb1d4588b7f",
-    "password": "creed@1",
+    "username": "BBBB",
+    "Device Id": "807d7fc047cb9668",
+    "password": "Trial1",
     "expiry": "2027-02-05",
-    "paymentUSD": 20,
+    "paymentUSD": 10,
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
@@ -92,16 +92,6 @@
     "password": "B12345",
     "expiry": "2026-02-15",
     "paymentUSD": 20,
-    "paymentBDT": 0,
-    "allowoffline": false,
-    "blocked": false
-  },
-  {
-    "username": "A34",
-    "Device Id": "807d7fc047cb9668",
-    "password": "Trial",
-    "expiry": "2027-02-02",
-    "paymentUSD": 10,
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
