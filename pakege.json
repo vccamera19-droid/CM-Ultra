@@ -47,16 +47,6 @@
     "blocked": false
   },
   {
-    "username": "AL12",
-    "Device Id": "9a14064d070990",
-    "password": "12345",
-    "expiry": "2027-03-02",
-    "paymentUSD": 6,
-    "paymentBDT": 0,
-    "allowoffline": false,
-    "blocked": false
-  },
-  {
     "username": "A0987",
     "Device Id": "10ce56c0f64965fc",
     "password": "B0987",
