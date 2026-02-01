@@ -97,10 +97,10 @@
     "blocked": false
   },
   {
-    "username": "Aa11",
+    "username": "Aa22",
     "Device Id": "165264266b24f0fc",
     "password": "bb22",
-    "expiry": "2026-02-28",
+    "expiry": "2026-02-15",
     "paymentUSD": 20,
     "paymentBDT": 0,
     "allowoffline": false,
