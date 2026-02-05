@@ -106,5 +106,15 @@
     "paymentBDT": 1800,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Camilo",
+    "Device Id": "4a70ca2092d95a05",
+    "password": "1234",
+    "expiry": "2027-02-02",
+    "paymentUSD": 5,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
