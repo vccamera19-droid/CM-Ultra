@@ -126,5 +126,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "UM1234",
+    "Device Id": "94bcc3ba10ee1f57",
+    "password": "1234",
+    "expiry": "2027-02-02",
+    "paymentUSD": 50,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
