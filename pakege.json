@@ -116,5 +116,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Carlos",
+    "Device Id": "272297c313aba36e",
+    "password": "1234",
+    "expiry": "2027-02-02",
+    "paymentUSD": 60,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
