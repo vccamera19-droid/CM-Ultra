@@ -146,5 +146,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Wemerson",
+    "Device Id": "ec241ed12962adc2",
+    "password": "1234",
+    "expiry": "2027-02-08",
+    "paymentUSD": 6,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
