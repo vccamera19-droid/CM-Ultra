@@ -156,5 +156,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Omorbek",
+    "Device Id": "5144d8be4e4db395",
+    "password": "1234",
+    "expiry": "2027",
+    "paymentUSD": 80,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
