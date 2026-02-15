@@ -176,5 +176,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "BigBro",
+    "Device Id": "ce94ebd24ad585a0",
+    "password": "BigBro",
+    "expiry": "1 month",
+    "paymentUSD": 100,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
