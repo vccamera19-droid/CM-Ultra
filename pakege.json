@@ -9,23 +9,22 @@
     "allowoffline": false
   },
   {
-    "Device Id": "b18e006865f4fd4",
-    "username": "Daney1234",
-    "password": "Daney@1",
+    "Device Id": "6308d31bfec7a7ca",
+    "username": "Frank1234",
+    "password": "Frank@1",
     "expiry": "2026-09-29",
     "paymentUSD": 45,
     "paymentBDT": 0,
-    "allowoffline": false
-  },
+    "allowoffline": false  },
   {
-    "Device Id": "6308d31bfec7a7ca",
-    "username": "Frank",
-    "password": "Frank@1",
+    "Device Id": "630a",
+    "username": "Frankkkk",
+    "password": "Fnk@1",
     "expiry": "2027-01-24",
     "paymentUSD": 50,
     "paymentBDT": 0,
     "allowoffline": false,
-  
+    "blocked": false
   },
   {
     "username": "Razorkid8",
