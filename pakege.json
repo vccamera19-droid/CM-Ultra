@@ -18,18 +18,18 @@
     "allowoffline": false
   },
   {
-    "Device Id": "4738e444c4db0e",
-    "username": "Block",
-    "password": "andrevxt1234",
+    "Device Id": "ebed45531d3267b7",
+    "username": "Frank",
+    "password": " Frank@1",
     "expiry": "2027-01-24",
-    "paymentUSD": 0,
+    "paymentUSD": 50,
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
   },
   {
     "username": "Razorkid8",
-    "Device Id": "b73073cf60de8dfe",
+    "Device Id": "b73073cf60ddfe",
     "password": "Razorkid@88",
     "expiry": "2027-02-02",
     "paymentUSD": 30,
@@ -39,7 +39,7 @@
   },
   {
     "username": "Na12",
-    "Device Id": "eb930cfa2a672fa",
+    "Device Id": "eb930cfa272fa",
     "password": "Na@2",
     "expiry": "2027-02-02",
     "paymentUSD": 0,
@@ -49,7 +49,7 @@
   },
   {
     "username": "A0987",
-    "Device Id": "10ce56c0f64965fc",
+    "Device Id": "10ce56c0f665fc",
     "password": "B0987",
     "expiry": "2027-02-04",
     "paymentUSD": 6,
@@ -89,7 +89,7 @@
   },
   {
     "username": "A12345",
-    "Device Id": "165264266b24f0fc",
+    "Device Id": "165264266b20fc",
     "password": "B12345",
     "expiry": "2026-02-15",
     "paymentUSD": 20,
@@ -109,7 +109,7 @@
   },
   {
     "username": "Camilo",
-    "Device Id": "4a70ca2092d95a05",
+    "Device Id": "4a70ca2092d95",
     "password": "1234",
     "expiry": "2027-02-02",
     "paymentUSD": 5,
@@ -119,7 +119,7 @@
   },
   {
     "username": "Carlos",
-    "Device Id": "272297c313aba36e",
+    "Device Id": "272297c313a36e",
     "password": "1234",
     "expiry": "2027-02-02",
     "paymentUSD": 60,
@@ -129,7 +129,7 @@
   },
   {
     "username": "UM1234",
-    "Device Id": "94bcc3ba10ee1f57",
+    "Device Id": "94bcc3ba1e1f57",
     "password": "1234",
     "expiry": "2027-02-02",
     "paymentUSD": 50,
@@ -139,7 +139,7 @@
   },
   {
     "username": "T1234",
-    "Device Id": "254a6742208fc41b",
+    "Device Id": "254a6708fc41b",
     "password": "1234",
     "expiry": "2027-02-03",
     "paymentUSD": 0,
@@ -149,7 +149,7 @@
   },
   {
     "username": "Wemerson",
-    "Device Id": "ec241ed12962adc2",
+    "Device Id": "ec241ed12adc2",
     "password": "1234",
     "expiry": "2027-02-08",
     "paymentUSD": 6,
@@ -159,7 +159,7 @@
   },
   {
     "username": "Omorbek",
-    "Device Id": "5144d8be4e4db395",
+    "Device Id": "5144d8bdb395",
     "password": "1234",
     "expiry": "2027",
     "paymentUSD": 0,
@@ -169,7 +169,7 @@
   },
   {
     "username": "DN12",
-    "Device Id": "5d2c08ab4e4e4502",
+    "Device Id": "5d2c08a4e4502",
     "password": "1234",
     "expiry": "2027-02-02",
     "paymentUSD": 6,
@@ -179,7 +179,7 @@
   },
   {
     "username": "BigBro",
-    "Device Id": "ce94ebd24ad585a0",
+    "Device Id": "ce94ebd585a0",
     "password": "BigBro",
     "expiry": "1 month",
     "paymentUSD": 100,
