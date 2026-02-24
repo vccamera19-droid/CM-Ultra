@@ -15,7 +15,8 @@
     "expiry": "2026-09-29",
     "paymentUSD": 45,
     "paymentBDT": 0,
-    "allowoffline": false  },
+    "allowoffline": false
+  },
   {
     "Device Id": "f5ca5e3416038de2",
     "username": "agha11",
@@ -128,7 +129,7 @@
   },
   {
     "username": "UM1234",
-    "Device Id": "94bcc3ba1e1f57",
+    "Device Id": "94bcc3ba10ee1f57",
     "password": "1234",
     "expiry": "2027-02-02",
     "paymentUSD": 50,
