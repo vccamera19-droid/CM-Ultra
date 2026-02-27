@@ -186,5 +186,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "D1234",
+    "Device Id": "4f3041b45db6d2b9",
+    "password": "D@1234",
+    "expiry": "2028-02-02",
+    "paymentUSD": 30,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
