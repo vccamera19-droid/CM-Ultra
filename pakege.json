@@ -196,5 +196,15 @@
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "BBBA",
+    "Device Id": "67289e384d525508",
+    "password": "RRRL#1",
+    "expiry": "2029-02-03",
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]
