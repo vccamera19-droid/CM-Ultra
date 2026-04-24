@@ -48,11 +48,11 @@
     "blocked": false
   },
   {
-    "username": "Safi12",
-    "Device Id": "0733b4a75a1fe159",
-    "password": "Safi@1",
+    "username": "B12345",
+    "Device Id": "31863c45a7f4221a",
+    "password": "B@12345",
     "expiry": "2027-02-04",
-    "paymentUSD": 6,
+    "paymentUSD": 38,
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
