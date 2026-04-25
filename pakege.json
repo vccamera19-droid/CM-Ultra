@@ -28,11 +28,11 @@
     "blocked": false
   },
   {
-    "username": "Moni22",
-    "Device Id": "922420f1315037b5",
-    "password": "Moni@22",
+    "username": "M1234",
+    "Device Id": "38f649bc3a92dd01",
+    "password": "M@222",
     "expiry": "2027-02-02",
-    "paymentUSD": 25,
+    "paymentUSD": 0,
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false
